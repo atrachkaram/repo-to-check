@@ -1,4 +1,4 @@
-# Fashion Cloud
+# Cache Cloud
 
 REST API that exposes methods to interact with a cache.
 
