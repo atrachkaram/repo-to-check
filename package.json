@@ -1,0 +1,34 @@
+{
+  "name": "cacheApi",
+  "version": "1.0.0",
+  "description": "Cache api",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/controllers"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atrachkaram/repo-to-check.git"
+  },
+  "author": "karam al atrach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atrachkaram/repo-to-check/issues"
+  },
+  "homepage": "https://github.com/atrachkaram/repo-to-check#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "errorhandler": "^1.5.1",
+    "eslint": "^7.32.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.21",
+    "mocha": "^9.0.3",
+    "mongodb": "^4.0.1",
+    "mongoose": "^5.13.5",
+    "should": "^13.2.3",
+    "supertest": "^6.1.4"
+  }
+}
