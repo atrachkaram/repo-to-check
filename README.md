@@ -1,4 +1,4 @@
-# Cache Cloud
+# Cache Api
 
 REST API that exposes methods to interact with a cache.
 
